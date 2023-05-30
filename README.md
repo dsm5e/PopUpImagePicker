@@ -1,5 +1,5 @@
 # PopUpImagePicker
-Popup image picker in SwiftUI
+Custom popup image picker in SwiftUI
 
  | MainView  |
 | ------------- |
